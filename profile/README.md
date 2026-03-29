@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="1920" height="806" alt="shorekeeper" src="https://github.com/user-attachments/assets/e32b7bbc-8ae7-455c-9dfc-96675b9e3177" alt="Organization Banner" width="100%" style={pointer-events: none;
-    cursor: default;}/>
+  <a>
+    <img width="1920" height="806" alt="Organization Banner" src="https://github.com/user-attachments/assets/e32b7bbc-8ae7-455c-9dfc-96675b9e3177" width="100%">
+  </a>
 
   <br />
 
