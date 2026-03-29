@@ -10,9 +10,9 @@
 
   Inspired by *Neuro-sama* (Vedal) & *Project AIRI*.
 
-  [![Website](https://img.shields.io/badge/Website-shorekeeper.ai-000000?style=for-the-badge&logo=vercel)](https://shorekeeper.ai)
+  <!-- [![Website](https://img.shields.io/badge/Website-shorekeeper.ai-000000?style=for-the-badge&logo=vercel)](https://shorekeeper.ai)
   [![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourlink)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
 </div>
 
 <br />
