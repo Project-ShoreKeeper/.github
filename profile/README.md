@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0b0f19/00ffcc/?text=Project+ShoreKeeper" alt="Organization Banner" width="100%">
-  
+  <img width="1920" height="806" alt="shorekeeper" src="https://github.com/user-attachments/assets/e32b7bbc-8ae7-455c-9dfc-96675b9e3177" alt="Organization Banner" width="100%"/>
+
   <br />
 
   # 🌌 Project ShoreKeeper
