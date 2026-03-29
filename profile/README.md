@@ -3,7 +3,7 @@
     <source
       srcset="../public/shorekeeper.png"
     />
-    <img width="1920" height="806" alt="Organization Banner" src="../public/shorekeeper.png" width="100%">
+    <img alt="Organization Banner" src="../public/shorekeeper.png" width="100%">
   </picture>
 
   <br />
