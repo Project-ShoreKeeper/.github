@@ -8,7 +8,7 @@
   **A modular, open-source ecosystem enabling users to build, run, and interact with their own autonomous 2D AI VTuber/Companion.**
   *(Local & Cloud supported).*
 
-  Inspired by *Neuro-sama* (Vedal) & *Project AIRI*.
+  Inspired by *Neuro-sama* (Vedal) & *Project AIRI* & *Wuthering Waves*.
 
   <!-- [![Website](https://img.shields.io/badge/Website-shorekeeper.ai-000000?style=for-the-badge&logo=vercel)](https://shorekeeper.ai)
   [![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourlink)
